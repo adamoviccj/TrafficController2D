@@ -1,2 +1,2 @@
-Prvi projektni zadatak za predmet racunarska grafika, 2024.
+# Prvi projektni zadatak za predmet racunarska grafika, 2024.
 
